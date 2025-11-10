@@ -1,6 +1,6 @@
-baseURL = "http://example.org/"
+baseURL = "https://nadiequeconozcas.github.io/hovlim/"
 languageCode = "en-us"
-title = "Fur"
+title = "Hovlim - 153"
 googleAnalytics = ""
 enableRobotsTXT = true
 
@@ -10,8 +10,8 @@ disableKinds = ["taxonomy", "term"]
 snipcart_key = "NWNjOWZhYjctYmE1ZS00MDM3LThkNjUtZmE5M2NiMTU1NzAwNjM2MjYzNTE1MzM5ODg1ODkw"
 
 [params.author]
-name = "fur"
-email = "fur@example.com"
+name = "Hovel vatik"
+email = "ofri.alum@gmail.com"
 twitter = "fur" # twitter username without the @ symbol
 phone = "+1 23456789"
 
