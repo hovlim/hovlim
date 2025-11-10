@@ -16,7 +16,7 @@ twitter = "fur" # twitter username without the @ symbol
 phone = "+1 23456789"
 
 [params.social]
-name = "Fur Template"
+name = "Hovlim"
 links = [
 	"https://github.com/CloudCannon/fur-hugo-template"
 ]

@@ -1,7 +1,7 @@
 ---
-title: Find Your Spirit Animal
-hero: Find your spirit animal
-subtitle: The animal friendly clothing company
+title: Hovlim - 153
+hero: Hovlim - 153
+subtitle: Ride the tide • wear Hovlim
 
 menu:
   main:
